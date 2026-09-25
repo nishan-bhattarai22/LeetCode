@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/honeyman22/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/honeyman22/LeetCode/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/honeyman22/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/honeyman22/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/honeyman22/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/honeyman22/LeetCode/tree/master/0258-add-digits) |
+| [2553-separate-the-digits-in-an-array](https://github.com/honeyman22/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
